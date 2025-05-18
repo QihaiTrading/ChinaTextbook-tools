@@ -8,3 +8,6 @@
 
 ## 原因
 * https://github.com/TapXWorld/ChinaTextbook/issues/35
+
+## 感谢
+[ @lisonge](https://github.com/lisonge/)
